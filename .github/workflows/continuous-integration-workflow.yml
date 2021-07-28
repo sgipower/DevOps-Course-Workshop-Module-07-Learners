@@ -13,3 +13,8 @@ jobs:
         dotnet-version: '5.x'
     - name: Build with dotnet
       run: dotnet build --configuration Release
+    - name: npm install, build, and test
+      run: |
+        cd DotnetTemplate.Web
+        npm install
+        npm run build
