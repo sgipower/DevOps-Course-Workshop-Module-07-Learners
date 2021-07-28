@@ -8,4 +8,4 @@ During workshop 7 you'll be following the instructions in [during_workshop_7.md]
 
 
 ![continuous-integration-workflow Actions Status]
-(https://github.com/sgipower/DevOps-Course-Workshop-Module-07-Learners/actions/workflows/continuous-integration-workflow/badge.svg)
+(https://github.com/sgipower/DevOps-Course-Workshop-Module-07-Learners/actions/workflows/continuous-integration-workflow.yml/badge.svg)
