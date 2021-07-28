@@ -7,7 +7,7 @@
     "build": "run-p build:*",
     "build:sass": "npm run sass -- --output-style compressed",
     "build:webpack": "webpack",
-    "lint": "eslint ./Scripts/**/*.ts",
+    "lint": "eslint --max-warnings=0 ./Scripts/**/*.ts",
     "lint-fix": "eslint --fix ./Scripts/**/*.ts",
     "dev": "run-p dev:*",
     "dev:sass": "npm run sass && npm run sass -- --watch",

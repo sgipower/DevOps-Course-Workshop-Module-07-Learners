@@ -7,5 +7,4 @@ Before the workshop you should complete all the set-up instructions in [before_y
 During workshop 7 you'll be following the instructions in [during_workshop_7.md](./during_workshop_7.md).
 
 
-![continuous-integration-workflow Actions Status]
-(https://github.com/sgipower/DevOps-Course-Workshop-Module-07-Learners/actions/workflows/continuous-integration-workflow.yml/badge.svg)
+![example workflow](https://github.com/sgipower/DevOps-Course-Workshop-Module-07-Learners/actions/workflows/continuous-integration-workflow.yml/badge.svg)
